@@ -1,0 +1,68 @@
+// FICTIONAL PORTFOLIO-DEMO CLINICIANS.
+// None of these people exist. `credentials` is an editable placeholder:
+// replace with verified qualifications before any real deployment.
+export const doctors = [
+  {
+    id: 'dr-amani-demo',
+    name: 'Dr. Amani Demo',
+    departmentId: 'general-medicine',
+    specialty: 'General Medicine',
+    intro: 'Sample profile: focuses on clear explanations and routine health assessments for adults.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'AD',
+  },
+  {
+    id: 'dr-sample-okoro',
+    name: 'Dr. Sample Okoro',
+    departmentId: 'general-medicine',
+    specialty: 'Family Medicine',
+    intro: 'Sample profile: supports families with everyday healthcare questions and planning visits.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'SO',
+  },
+  {
+    id: 'dr-lena-example',
+    name: 'Dr. Lena Example',
+    departmentId: 'maternal-family',
+    specialty: 'Maternal and Family Health',
+    intro: 'Sample profile: provides general guidance on maternal and family health services.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'LE',
+  },
+  {
+    id: 'dr-tobi-placeholder',
+    name: 'Dr. Tobi Placeholder',
+    departmentId: 'paediatrics',
+    specialty: 'Paediatrics',
+    intro: 'Sample profile: welcoming approach to care for children and young patients.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'TP',
+  },
+  {
+    id: 'dr-nia-mock',
+    name: 'Dr. Nia Mock',
+    departmentId: 'dental',
+    specialty: 'General Dentistry',
+    intro: 'Sample profile: general dental consultations and oral health information.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'NM',
+  },
+  {
+    id: 'dr-kofi-specimen',
+    name: 'Dr. Kofi Specimen',
+    departmentId: 'specialist',
+    specialty: 'Specialist Referrals Coordinator',
+    intro: 'Sample profile: helps patients understand how specialist appointments and referrals work.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'KS',
+  },
+  {
+    id: 'lab-team-sample',
+    name: 'Sam Laboratory Lead',
+    departmentId: 'laboratory',
+    specialty: 'Laboratory Services',
+    intro: 'Sample profile: explains how laboratory visits are arranged and what to bring.',
+    credentials: '[Placeholder: verified qualifications and registration]',
+    initials: 'SL',
+  },
+]
